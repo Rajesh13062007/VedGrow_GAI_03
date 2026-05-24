@@ -45,7 +45,7 @@ Open app settings and add these secrets:
 ```toml
 GOOGLE_API_KEY = "your_gemini_api_key_here"
 GEMINI_MODEL = "gemini-1.5-flash"
-GEMINI_EMBEDDING_MODEL = "models/embedding-001"
+GEMINI_EMBEDDING_MODEL = "models/gemini-embedding-001"
 ```
 
 ### Step 4: Reboot the App
